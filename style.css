@@ -1,0 +1,23 @@
+*{
+    background: linear-gradient(90deg,rgb(0, 0, 0),rgb(177, 78, 78),rgb(0, 0, 0));
+}
+img{
+    height: 750px;
+    width: 750px;
+    border: 5px solid white;
+    box-shadow: black;
+    border-radius: 50px;
+
+}
+
+h1{
+  color: aliceblue;
+}
+button{
+    background:linear-gradient(90deg,rgb(219, 31, 31),rgb(255, 255, 255),rgb(238, 48, 48));
+    height: 30px;
+    width: 150px;
+    border-radius: 100px;
+
+}
+
